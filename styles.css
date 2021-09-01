@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    margin: 10px auto;
+    width: 980px;
+    background-color: darkslategray;
+    min-height: 50px;
+    padding: 20px 10px 10px 20px;
+}
+
+.a-row {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0 0 0;
+}
+
+
+
